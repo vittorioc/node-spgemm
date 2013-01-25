@@ -2,22 +2,18 @@
 
 ## Vector - Vector
 
-- - -
-
 ### vectorAdd()
 Vector addition
 
 #### I/O
+> #### in
+> `Array` `v`: point of the `domain`.
 
-> > #### in
-> > `Array` `v`: point of the `domain`.
-> >
-> > #### out
-> > `Number`: the selected coordinate.
+> #### out
+> `Number`: the selected coordinate.
 >
 
 #### Example
-
 > ```js
 > var domain =
 > ```
@@ -25,5 +21,3 @@ Vector addition
 > ```js
 > var domain = 
 >```
-
-- - -
