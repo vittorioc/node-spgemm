@@ -1,6 +1,4 @@
-node-spgemm
-===========
-# cl_v_add.js
+# node-spgemm
 
 Vector sum in webcl
 
