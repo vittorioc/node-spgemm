@@ -12,7 +12,7 @@ install [node-webcl](https://github.com/Motorola-Mobility/node-webcl)
 
 ### install
 
-### update
+*### update
 
 ## Authors
 
