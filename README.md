@@ -16,7 +16,7 @@ install [node-webcl](https://github.com/Motorola-Mobility/node-webcl)
 
 ## Authors
 
-- [Vittorio Cecchetto](v.cecchetto@gmail.com)
+- [Vittorio Cecchetto](mailto:v.cecchetto@gmail.com)
 
 ## Contributors
 
